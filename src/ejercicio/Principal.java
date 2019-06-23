@@ -2,7 +2,7 @@ package ejercicio;
 
 
 public class Principal {
-
+ // hola mundo
 	public static void main(String[] args) {
 		/*Declaramos el objeto*/
 		VentanaPrincipal miVentanaPrincipal;
@@ -10,5 +10,6 @@ public class Principal {
 		miVentanaPrincipal= new VentanaPrincipal();
 		/*Hacemos que se cargue la ventana*/
 		miVentanaPrincipal.setVisible(true);
+		//prueba.
 	}
 }
