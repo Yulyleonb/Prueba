@@ -2,7 +2,7 @@ package ejercicio;
 
 
 public class Principal {
- // hola mundo
+ // hola mundo mi oso
 	public static void main(String[] args) {
 		/*Declaramos el objeto*/
 		VentanaPrincipal miVentanaPrincipal;
